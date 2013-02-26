@@ -1,0 +1,258 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"file",
+				"file_name"
+			],
+			[
+				"std",
+				"stdout"
+			],
+			[
+				"fil",
+				"file_name"
+			],
+			[
+				"h",
+				"h1	Tag"
+			],
+			[
+				"ap",
+				"appt_list"
+			],
+			[
+				"per",
+				"perallocators"
+			],
+			[
+				"getE",
+				"getElement"
+			],
+			[
+				"get",
+				"getElementsByTagName"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/ivan.zenteno/Documents/GitHub/accounts/yii/framework/yii.php",
+		"/C/Users/ivan.zenteno/Documents/GitHub/accounts/hotelzit/protected/extensions/EMigrateCommand.php",
+		"/C/Users/ivan.zenteno/Documents/GitHub/accounts/yii/framework/db/CDbMigration.php",
+		"/C/Users/ivan.zenteno/Documents/GitHub/accounts/yii/framework/base/CComponent.php",
+		"/C/Users/ivan.zenteno/Documents/GitHub/accounts/hotelzit/protected/extensions/EDbMigration.php",
+		"/C/Users/ivan.zenteno/Documents/GitHub/accounts/yii/framework/db/schema/mysql/CMysqlTableSchema.php",
+		"/C/Users/ivan.zenteno/Documents/GitHub/accounts/yii/framework/db/schema/mysql/CMysqlSchema.php",
+		"/C/Users/ivan.zenteno/Documents/GitHub/accounts/yii/framework/db/schema/mysql/CMysqlColumnSchema.php",
+		"/C/Users/ivan.zenteno/Documents/GitHub/accounts/hotelzit/protected/config/console.php",
+		"/C/Users/ivan.zenteno/Documents/GitHub/accounts/hotelzit/protected/config/main.php",
+		"/C/wamp/bin/apache/apache2.2.22/conf/extra/httpd-vhosts.conf",
+		"/C/Users/ivan.zenteno/Downloads/Backups/tips/passwdDefault2gpsarchdb",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/Users/ivan.zenteno/Documents/OUTAGES_TEMPLATES.txt",
+		"/C/Users/ivan.zenteno/Documents/GitHub/accounts/application/controllers/login.php",
+		"/C/Users/ivan.zenteno/Documents/GitHub/accounts/index.html",
+		"/C/Users/ivan.zenteno/Documents/GitHub/accounts/application/views/general/index.php",
+		"/C/Users/ivan.zenteno/Documents/GitHub/accounts/.htaccess",
+		"/C/Users/ivan.zenteno/Documents/GitHub/accounts/.htacess",
+		"/C/Users/ivan.zenteno/Documents/GitHub/accounts/pages/contact.html",
+		"/C/Users/ivan.zenteno/Documents/GitHub/accounts/application/controllers/welcome.php",
+		"/C/wamp/bin/apache/apache2.2.22/conf/httpd.conf",
+		"/C/wamp/alias/accounts",
+		"/C/wamp/alias/phpmyadmin.conf",
+		"/C/Users/ivan.zenteno/Documents/GitHub/accounts/application/config/database.php",
+		"/C/Users/ivan.zenteno/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/ivan.zenteno/Documents/GitHub/accounts/Accounts.sublime-workspace",
+		"/C/Users/ivan.zenteno/Documents/GitHub/accounts/Accounts.sublime-project",
+		"/C/Users/ivan.zenteno/Documents/GitHub/accounts/.gitignore",
+		"/C/Users/ivan.zenteno/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/TNXXZ4XO/madden-2012-xbl2-2013-02-14T06-00.csv",
+		"/C/Users/ivan.zenteno/Documents/btfld3.csv",
+		"/C/Users/ivan.zenteno/AppData/Local/Temp/p4v/LSTKAG17539_p4serv1.online.ea.com_1777/gosdev/games/Crysis/3/retail/prod/blazeserver/3.x/etc/env/prod#3.boot",
+		"/C/Users/ivan.zenteno/Documents/List_servers_crysis3.txt",
+		"/C/Users/ivan.zenteno/Perforce/EAHQ/izenteno_LSTKAG17539_5612/gos/tools/jiraoutagetracker/extra/xml/gameplatforms.xml",
+		"/C/Users/ivan.zenteno/Perforce/EAHQ/izenteno_LSTKAG17539_5612/gos/tools/jiraoutagetracker/extra/xml/technology.xml",
+		"/C/Users/ivan.zenteno/Perforce/EAHQ/izenteno_LSTKAG17539_5612/gos/tools/jiraoutagetracker/extra/xml/platforms.xml",
+		"/C/Users/ivan.zenteno/Perforce/EAHQ/izenteno_LSTKAG17539_5612/gos/tools/jiraoutagetracker/extra/xml/games.xml",
+		"/C/Users/ivan.zenteno/Documents/moh-warfighter-xbl2.csv",
+		"/C/Users/ivan.zenteno/Downloads/Backups/.bash_aliases",
+		"/C/Users/ivan.zenteno/Perforce/EAHQ/izenteno_LSTKAG17539_5612/depot/doc/web/grapher/etc/dirtystats.xml",
+		"/C/Users/ivan.zenteno/Perforce/EAHQ/izenteno_LSTKAG17539_5612/depot/doc/web/grapher/etc/blazeinstances.csv",
+		"/C/Users/ivan.zenteno/Perforce/EAHQ/izenteno_LSTKAG17539_5612/gos/tools/jiraoutagetracker/extra/scripts/verify.py",
+		"/C/Users/ivan.zenteno/AppData/Local/Temp/p4v/LSTKAG17539_p4serv1.online.ea.com_1777/gosdev/games/Crysis/3/retail/prod/blazeserver/3.x/bin/server_prod_pc#4.cfg",
+		"/C/Users/ivan.zenteno/AppData/Local/Temp/p4v/LSTKAG17539_p4serv1.online.ea.com_1777/gosdev/games/Crysis/3/retail/prod/blazeserver/3.x/bin/server_prod_ps3#4.cfg",
+		"/C/Users/ivan.zenteno/AppData/Local/Temp/p4v/LSTKAG17539_p4serv1.online.ea.com_1777/gosdev/games/Crysis/3/retail/prod/blazeserver/3.x/bin/server_prod_xbl2#3.cfg",
+		"/C/Users/ivan.zenteno/AppData/Local/Temp/p4v/LSTKAG17539_p4serv1.online.ea.com_1777/gosdev/games/Crysis/3/retail/prod/blazeserver/3.x/bin/server_dev_xbl2#1.cfg",
+		"/C/Users/ivan.zenteno/Downloads/Backups/.ssh/id_rsa.pub",
+		"/C/Users/ivan.zenteno/Downloads/Backups/tips/sar_check",
+		"/C/Users/ivan.zenteno/Documents/blaze_master.log",
+		"/C/Users/ivan.zenteno/Downloads/GEOLOCATOR.txt",
+		"/C/Users/ivan.zenteno/Downloads/Backups/tips/bash_tips.txt",
+		"/C/Users/ivan.zenteno/Downloads/Backups/.tmux_bind_keys",
+		"/C/Users/ivan.zenteno/Downloads/Backups/.tmux.conf",
+		"/C/Users/ivan.zenteno/AppData/Local/Temp/scp10308/home/dev/izenteno/geolocation/geolocator.py",
+		"/C/Users/ivan.zenteno/Documents/amalur-reckoning-ps3-demo.cvs",
+		"/C/Users/ivan.zenteno/Downloads/timelaph-latest/timelaph/index.php",
+		"/C/Users/ivan.zenteno/Downloads/timelaph-latest/timelaph/style.css",
+		"/C/Users/ivan.zenteno/Documents/Lobstacules/Assets/Assets/Laser_asset.js",
+		"/E/intro/Scripts/Joystick.js",
+		"/E/intro/Scripts/Ship_asset.js",
+		"/C/Users/ivan.zenteno/Documents/Lobstacules/Assets/Scripts/Joystick.js",
+		"/C/Users/ivan.zenteno/Documents/Lobstacules/Assets/Assets/LasserGun_asset.js",
+		"/C/Users/ivan.zenteno/Documents/Lobstacules/Assets/Scripts/LaunchIntro.js",
+		"/C/Users/ivan.zenteno/Documents/accesosFaltante.txt",
+		"/C/Users/ivan.zenteno/Documents/scripts/geolocator.py",
+		"/C/Users/ivan.zenteno/Documents/scripts/get_xml_parser.html",
+		"/C/Users/ivan.zenteno/Documents/scripts/parse_xml_get_Status.py",
+		"/C/Users/ivan.zenteno/Downloads/Backups/.scripts/tmux_run.sh",
+		"/C/Users/ivan.zenteno/Downloads/Backups/.screen.d/screen_ssh.sh",
+		"/C/Users/ivan.zenteno/Downloads/AngryBots/Assets/Scripts/Movement/PlayerMoveController.js",
+		"/C/Users/ivan.zenteno/Downloads/AngryBots/Assets/Scripts/Movement/Joystick.js",
+		"/C/Users/ivan.zenteno/Downloads/AngryBots/Assets/Scripts/Movement/MovementMotor.js",
+		"/C/Users/ivan.zenteno/Downloads/Backups/.vim_runtime/vimrc",
+		"/C/Users/ivan.zenteno/Downloads/Backups/.vim_runtime/install.sh",
+		"/C/Users/ivan.zenteno/Documents/scripts/id_rsa.pub"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"getTemplate",
+			"getTemplates",
+			"src=\"javascripts/",
+			"\\",
+			"==",
+			"* ",
+			"*",
+			"gosiadprod-feapp001.ea.com",
+			"gosiadprod-feapp001.ea.com.",
+			"gosiadprod-qos01.ea.com  ",
+			"()+\"<"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"src=\"/assets/javascripts/",
+			"/",
+			"h2. ",
+			"=="
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/C/Users/ivan.zenteno/Documents/GOS24x7.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 185.0,
+	"status_bar_visible": true
+}
